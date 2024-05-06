@@ -1,0 +1,12 @@
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/bin/Debug/net8.0/ApiLessonOne.deps.json
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/bin/Debug/net8.0/ApiLessonOne.dll
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/bin/Debug/net8.0/ApiLessonOne.pdb
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.AssemblyInfoInputs.cache
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.AssemblyInfo.cs
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.csproj.CoreCompileInputs.cache
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.sourcelink.json
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.dll
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/refint/ApiLessonOne.dll
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ApiLessonOne.pdb
+/Users/mathewharvey/Documents/dev/dotnetAPILesson/ApiLessonOne/obj/Debug/net8.0/ref/ApiLessonOne.dll
